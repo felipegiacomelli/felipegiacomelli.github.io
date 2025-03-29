@@ -4,3 +4,6 @@
 
 layout: home
 ---
+Assignment 2 
+
+{% include hours_count_plot.html %}
