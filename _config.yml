@@ -37,7 +37,8 @@ plugins:
   - jekyll-feed
 
 collections:
-  posts: false
+  posts:
+    output: false
 
 
 permalink: pretty
