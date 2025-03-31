@@ -41,6 +41,7 @@ collections:
     output: false
 
 
+
 permalink: pretty
 # Exclude from processing.
 # The following items will not be processed, by default.
